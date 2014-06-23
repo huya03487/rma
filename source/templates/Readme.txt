@@ -1,0 +1,1 @@
+The directory will be the directory where we store our HTML template files

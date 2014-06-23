@@ -1,0 +1,1 @@
+This directory is the Web accessible, contains css, js, images, php files

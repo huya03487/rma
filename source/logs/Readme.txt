@@ -1,0 +1,1 @@
+This directory will contain our applications custom log files
